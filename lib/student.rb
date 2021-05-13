@@ -45,5 +45,3 @@ class Student
     student
   end
 end
-
-
